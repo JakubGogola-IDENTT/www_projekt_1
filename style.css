@@ -260,8 +260,10 @@ a:hover {
 }
 
 .book {
-    width: 70%;
-    margin: auto;
+    width: 90%;
+    height: 8em;
+    overflow: hidden;
+    margin: 0.5em auto 0.5em auto;
 }
 
 .book h2 {
@@ -281,4 +283,8 @@ a:hover {
     font-size: 100%;
     font-weight: lighter;
     font-style: italic;
+}
+
+.book .col-2-6 {
+    min-height: 20em;
 }
