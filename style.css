@@ -161,14 +161,14 @@ a:hover {
 
 .menu-info {
     width: 100%;
-    font-size: 120%;
+    font-size: 1.2em;
     font-weight: lighter;
     text-align: center;
 }
 
 .menu-header {
     width: 100%;
-    font-size: 170%;
+    font-size: 1.8em;
     font-weight: bold;
     text-align: center;
     margin: 0.3em auto;
@@ -186,6 +186,7 @@ a:hover {
     text-align: center;
 }
 
+
 .menu li {
     display: inline;
 }
@@ -195,9 +196,10 @@ a:hover {
     text-align: center;
     text-decoration: none;
     color: white;
+    overflow: hidden;
     font-weight: lighter;
     background-color: #221E22;
-    width: 12%;
+    min-width: 5em;
     padding: 1em 2em 1em 2em;
     margin: 1em 1em;
 }
@@ -205,6 +207,7 @@ a:hover {
 .menu a:hover {
     color: #C2DFE3;
 }
+
 
 /* Education */
 
