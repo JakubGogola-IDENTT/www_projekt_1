@@ -80,9 +80,9 @@ a:hover {
 }
 
 .code-icon {
-    width: 30%;
-    height: 30%;
-    margin-left: 30%;
+    width: 40%;
+    height: 40%;
+    margin-left: 25%;
 }
 
 .hobby-author-photo {
@@ -160,16 +160,13 @@ a:hover {
 }
 
 .menu-info {
-    color: white;
     width: 100%;
     font-size: 120%;
     font-weight: lighter;
     text-align: center;
-    margin: 0;
 }
 
 .menu-header {
-    color: white;
     width: 100%;
     font-size: 170%;
     font-weight: bold;
@@ -182,7 +179,6 @@ a:hover {
     display: block;
     list-style: none;
     font-size: 110%;
-    color: white;
     font-weight: lighter;
     width: 70%;
     margin: 0 auto 0 auto;
